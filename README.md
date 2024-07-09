@@ -1,5 +1,5 @@
 # SKN01-2nd-5Team
-Vue + Django + FastAPI 기반 가입 고객 이탈 예측 및 구매 동향 예측  
+가입 고객 이탈 예측 및 구매 동향 예측  
 
 OO과정 n차 프로젝트
 
@@ -23,7 +23,7 @@ OO과정 n차 프로젝트
 - 프로젝트 목표
 
 # 3. 기술 스택
-- Python, Django, SQLAlchemy, FastAPI, MYSQL, Docker, Redis, HTML5/CSS3, JavaScript, Vue3, Vuetify3, TensorFlow, Keras, axios, Graphviz, 
+- Python, Django, SQLAlchemy, FastAPI, MYSQL, Docker, Redis, HTML5/CSS3, JavaScript, Vue3, Vuetify3, TensorFlow, Keras, axios, Graphviz
 
 # 4. Agile Board (애자일 보드)
 
