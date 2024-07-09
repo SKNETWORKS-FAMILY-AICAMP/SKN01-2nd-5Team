@@ -1,5 +1,5 @@
 # SKN01-2nd-5Team
-가입 고객 이탈 예측 및 구매 동향 예측  
+Vue + Django + FastAPI 기반 가입 고객 이탈 예측 및 구매 동향 예측  
 
 OO과정 n차 프로젝트
 
