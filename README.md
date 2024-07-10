@@ -17,21 +17,20 @@ OO과정 n차 프로젝트
 ```
 
 # 1. 팀 소개
-- ### BBZ
+- ### BBZ(The Backlog BusterZ)
 | 한재혁 | 이민재 | 이경민 | 최명근 | 박주현 |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/dc9fafb0-46df-4a04-8984-b7c28495d307" /> | <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/e19d93d3-184c-41de-82dd-d1ef36e3ba8a" /> | <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/625ce939-42da-4f5a-b8b6-635a190ac4f2" /> | <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/dc66979f-b527-426f-98c3-12e1eafd1d45" /> | <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/deeee747-ac7a-41a1-a14e-1a7d5b9a5b02" /> 
+| <img width="120px" src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/41e20818-5f78-4a66-a11e-cc81e1abe511" /> | <img width="120px" src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/9d1b48c8-50f0-4cfc-90d4-57be71b3c884" /> | <img width="120px" src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/7c28355a-889b-4e3a-8423-c799d1e44825" /> | <img width="120px" src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/e6f3eba6-082b-491a-8f29-9fef49d50cd1" /> | <img width="120px" src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/7b02b779-99eb-4f38-9391-93f8275fbbeb" /> 
 |  [@Jh-jaehyuk](https://github.com/Jh-jaehyuk) | [@Meue-L](https://github.com/Meue-L) | [@2kilometer](https://github.com/2kilometer) | [@RUVIST](https://github.com/RUVIST) |[@iksoo-park](https://github.com/iksoo-park/skn-1st) |
 
 
 # 2. 프로젝트 개요
-- 프로젝트 명
-- 프로젝트 소개
-- 프로젝트 필요성(배경)
-- 프로젝트 목표
+- 프로젝트 명:  가입고객이탈 및 구매동향예측 
+- 프로젝트 소개: 워커힐 호텔의 매출극대화를 위해, 개인별 AI호텔 추천 및 관리자 분석페이지를 제공합니다.
+- 프로젝트 필요성(배경) : 
+- 프로젝트 목표 : 프론트엔드와 백엔드 
 
 # 3. 기술 스택 :books:
-- Python, Django, SQLAlchemy, FastAPI, MYSQL, Docker, Redis, HTML5/CSS3, JavaScript, Vue3, Vuetify3, TensorFlow, Keras, axios, Graphviz
 
 ### Backend
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"/> ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) <img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -54,7 +53,7 @@ OO과정 n차 프로젝트
 # 4. Agile Board (애자일 보드)
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/d31cb745-57f9-4c7c-b0e6-02c5d29c60fc"/>
 # 5. Commit History (커밋 이력)
-<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/0c38f744-c977-4807-a6d2-92ff0b68b68c"/>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/55ad0d22-3a33-49fe-825e-53a9f6dc1a34"/>
 # 6. 발생한 이슈 내역  
 
 ## 우선 순위를 5 단계로 나눠서 관리  
@@ -71,4 +70,16 @@ OO과정 n차 프로젝트
 
 # 9. 수행결과(테스트/시연 페이지)
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/eadc16be-2c03-401d-b4b9-27ffbb6cd5c9"/>
+
 # 10. 한 줄 회고
+
+### 한재혁
+
+### 이민재
+
+### 이경민
+
+### 최명근
+
+### 박주현: 지난 프로젝트 덕분에 많이 성장했고, 앞으로 어떻게 공부해야 할지 방향성이 보였습니다!
+
