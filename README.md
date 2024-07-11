@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Vue + Django + FastAPI** 기반 가입 고객 이탈 예측 및 구매 동향 예측 
+## Vue + Django + FastAPI 기반 가입 고객 이탈 예측 및 구매 동향 예측 
 
 플레이데이터 SK Networks AI Camp 2차 프로젝트
 
