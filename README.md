@@ -115,7 +115,7 @@
 # 6. Commit History (커밋 이력)
 
 ## Django
-![image1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/a56f0f62-d6ff-4a98-8bde-2f1b3d2d4fb6)
+![image1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/90e757ff-81e1-409c-ab4f-af7d99fab35f)
 
 ## Vue
 ![image2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/a56f0f62-d6ff-4a98-8bde-2f1b3d2d4fb6)
