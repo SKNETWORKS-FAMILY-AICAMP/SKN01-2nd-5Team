@@ -67,10 +67,41 @@
 ### AI Core
 <img src="https://img.shields.io/badge/fastapi-%23009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/scikitlearn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-### Instructure
+### Infrastructure
 <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white"/> ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Graphviz](https://img.shields.io/badge/Graphviz-used-blue.svg)
 
-# 4. Agile Board (애자일 보드)
+# 4. 가설 검정
+
+### 가설
+* **가설1**: 구매 이력이 없으면 **이탈율이 높을 것**이다.
+* **가설2**: 재구매 이력이 있다면 **이탈율이 낮을 것**이다.
+* **가설3**: 상품을 공유한 이력이 있다면 **이탈율이 낮을 것**이다.
+
+### 가설 검정
+* **데이터 수집 결과**
+  <img src="https://github.com/user-attachments/assets/0c7054b5-417a-4a1f-bf62-41e68ff702fd"/>
+  <img src="https://github.com/user-attachments/assets/3cf85c4c-9672-40d8-8568-d8f76c0518ad"/>
+
+* **데이터 분석**
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/5ca0bb68-7555-4d54-a2a5-02138fb8d791"/>
+  </div>
+  
+  * 상관관계 분석 결과, **상관관계로 분석하는 것이 무의미하다고 판단**하여 분석에서 제외함
+
+* **모델 학습**
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/04fbe5dc-d576-4997-92f9-39de9fdb5457"/>
+  </div>
+  
+  * *Logistic Regression* 모델 학습 결과, *roc curve*가 이상적으로 그려져 **회귀 모델로 분석이 가능할 것**으로 판단함
+  
+* **분석 결과**
+  * *수집 → 활성 → 구매 → 재구매 → 공유* 로 넘어갈수록 **이탈율이 낮아짐**을 확인
+  * 따라서, **가설이 성립함**을 확인할 수 있음
+
+
+# 5. Agile Board (애자일 보드)
 
 ## Django
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/d31cb745-57f9-4c7c-b0e6-02c5d29c60fc"/>
@@ -81,7 +112,7 @@
 ## FastAPI
 ![fastali백로그](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/42bc2eca-47e8-4873-bf63-d40ed91a9638)
 
-# 5. Commit History (커밋 이력)
+# 6. Commit History (커밋 이력)
 
 ## Django
 ![image1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/a56f0f62-d6ff-4a98-8bde-2f1b3d2d4fb6)
@@ -92,7 +123,7 @@
 ## FastAPI
 ![image3](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/1cc8f021-5290-4a56-98c9-d5e488a1084e)
 
-# 6. 발생한 이슈 내역  
+# 7. 발생한 이슈 내역  
 
 ## 우선 순위를 5 단계로 나눠서 관리  
 
@@ -115,10 +146,10 @@
 * 개발 초반부터 문제가 생겨 이후 연관된 모든 개발 진행에 차질이 생기는 경우
     ![issue4](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/126551524/27b56023-cc2c-4905-84b7-8b0e34e2710a)
 
-# 7. ERD
+# 8. ERD
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/0c38f744-c977-4807-a6d2-92ff0b68b68c"/>
 
-# 8. 주요 Domain 요소들
+# 9. 주요 Domain 요소들
 
 ### board
 * `Q&A 게시판` 관리를 위한 Domain
@@ -135,7 +166,7 @@
 ### marketing
 * `AARRR 분석을 위한 데이터`를 관리하기 위한 Domain
 
-# 9. 수행결과(테스트/시연 페이지)
+# 10. 수행결과(테스트/시연 페이지)
 
 ### 메인 화면
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-1st-5Team/assets/168423037/eadc16be-2c03-401d-b4b9-27ffbb6cd5c9"/>
@@ -148,7 +179,7 @@
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-2nd-5Team/assets/168423037/caa0dc76-b158-4293-b0b7-a70ab87bfb13"/>
 
 
-# 10. 한 줄 회고
+# 11. 한 줄 회고
 
 - 🧔**한재혁**: 짧은 기간동안 많은 기능들을 구현하려고 하다보니 쉽진 않았지만 그래도 힘든만큼 성장하는 것이라고 생각해서 성공적으로 마무리한 것 같습니다.
 
